@@ -1,0 +1,7 @@
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\MiniLexico\MiniLexico\MiniLexico\obj\Debug\MiniLexico.csprojResolveAssemblyReference.cache
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\MiniLexico\MiniLexico\MiniLexico\obj\Debug\MiniLexico.MainForm.resources
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\MiniLexico\MiniLexico\MiniLexico\obj\Debug\MiniLexico.csproj.GenerateResource.Cache
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\MiniLexico\MiniLexico\MiniLexico\bin\Debug\MiniLexico.exe
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\MiniLexico\MiniLexico\MiniLexico\bin\Debug\MiniLexico.pdb
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\MiniLexico\MiniLexico\MiniLexico\obj\Debug\MiniLexico.exe
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\MiniLexico\MiniLexico\MiniLexico\obj\Debug\MiniLexico.pdb
