@@ -2,6 +2,10 @@
 
 Se realiza un proyecto que sera un traductor en la materia para ello se hara en distintas etapas y pasos empezando por el analizador lexico.
 
+# Mini Analizador Lexico
+
+Se implemento un pequeño analizador lexico, este analizador dice dependiendo lo que el usuario ingrese si es un identificador (identificadores = letra(letra|digito)), entero (entero = entero) y real (real = entero.entero). Se realizo con interfaz grafica que muestra una tabla donde en la primera columna llamada "Token" dira de que tipo es lo que se ingreso, en la segunda columna llamada "Lexema" mostrara de lo que ingreso el usario, en la ultima columna llamada "Tipo" mostrara el numero al que pertecene esto se obtuvo en base al pdf que se dio para esta actividad llamado simbolos_lexicos donde aparece una tabla con estos.
+
 # Analizador Lexico
 
 ¿Qué es un Analizador Léxico?
