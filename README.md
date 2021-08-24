@@ -1,5 +1,7 @@
 # SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJE ll
 
+Se realiza un proyecto que sera un traductor en la materia para ello se hara en distintas etapas y pasos empezando por el analizador lexico.
+
 # Analizador Lexico
 
 ¿Qué es un Analizador Léxico?
