@@ -1,0 +1,7 @@
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.MainForm.resources
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Maria Zuñiga\Documents\2021B\S.S.P.T.D ll\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
